@@ -1,4 +1,10 @@
 # Gantry_Robot_KinematicAnalysis_PathPlanning
+
+In the present project, kinematic analysis is done 
+using ROBOANALYZER software to find out the position of the tool or end effector for 
+different and joint variables and we use CPRog Software for programming the Gantry Robot
+Kinematics.
+
 The forward kinematic analysis of the gantry robot is investigated. Programming for the IGUS Gantry robot is done  using C-prog which simplifies Gantry Robot Kinematic Analysis.
 
 
